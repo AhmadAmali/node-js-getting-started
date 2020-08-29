@@ -1673,3 +1673,11 @@ input, select, textarea {
   #right {
 	text-align: right;
   }
+
+  .center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+
+  
